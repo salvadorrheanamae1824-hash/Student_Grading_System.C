@@ -40,21 +40,3 @@ int main() {
     printf("Program Ended. Thank you!\n");
     return 0;
 }
-
-
-Enter Student Name: Rheana Mae C Salvador 
-Enter Quiz Grade: 90
-Enter Project Grade: 95
-Enter Exam Grade: 90
-
------------------------------------
-Student: Rheana Mae C Salvador 
-Final Grade: 91.50
-Status: PASSED!
------------------------------------
-Do you want to compute again? (Y/N): N
-
-Program Ended. Thank you!
-
-
-...Program finished with exit code 0
