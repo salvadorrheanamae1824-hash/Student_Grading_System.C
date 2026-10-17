@@ -1,0 +1,42 @@
+
+===== BSIT BANK =====
+Please Select your Transaction
+[1] Balance Inquiry
+[2] Deposit
+[3] Withdraw
+[4] Exit
+Enter your choice: 1
+
+Your current balance: P500.00
+
+===== BSIT BANK =====
+Please Select your Transaction
+[1] Balance Inquiry
+[2] Deposit
+[3] Withdraw
+[4] Exit
+Enter your choice: 2
+Enter amount to deposit: P300
+P300.00 deposited successfully!
+Your new balance: P800.00
+
+===== BSIT BANK =====
+Please Select your Transaction
+[1] Balance Inquiry
+[2] Deposit
+[3] Withdraw
+[4] Exit
+Enter your choice: 500
+Invalid choice! Please select 1-4.
+
+===== BSIT BANK =====
+Please Select your Transaction
+[1] Balance Inquiry
+[2] Deposit
+[3] Withdraw
+[4] Exit
+Enter your choice: 4
+Thank you for using BSIT BANK!
+
+
+...Program finished with exit code 0
